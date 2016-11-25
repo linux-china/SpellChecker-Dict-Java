@@ -1,0 +1,26 @@
+<!DOCTYPE idea-plugin PUBLIC "Plugin/DTD" "http://plugins.intellij.net/plugin.dtd">
+<idea-plugin>
+    <name>Spell Checker Java Dictionary</name>
+    <id>SpellChecker-Dict-Java</id>
+    <description>Standard Java dictionary based on Maven repository</description>
+    <version>0.2</version>
+    <vendor email="linux_china@hotmail.com">linux_china</vendor>
+    <change-notes>
+        <![CDATA[
+              <ul>0.2
+                   <li>structure adjusted</li>
+                   <li>add some words, such netflix etc</li>
+              </ul>
+               <ul>0.1 version (2100+ words)
+                  <li>Build word repository based on Maven repository</li>
+               </ul>
+        ]]>
+    </change-notes>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <spellchecker.bundledDictionaryProvider
+                implementation="org.intellij.spellChecker.javadic.JavaDictionaryProvider"/>
+    </extensions>
+</idea-plugin>
