@@ -1,7 +1,7 @@
 <!DOCTYPE idea-plugin PUBLIC "Plugin/DTD" "http://plugins.intellij.net/plugin.dtd">
 <idea-plugin>
     <name>Spell Checker Java Dictionary</name>
-    <id>SpellChecker-Dict-Java</id>
+    <id>Spell Checker Java Dictionary</id>
     <description>Standard Java dictionary based on Maven repository</description>
     <version>0.2</version>
     <vendor email="linux_china@hotmail.com">linux_china</vendor>
