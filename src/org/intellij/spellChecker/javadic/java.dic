@@ -1,6 +1,13 @@
 wiremock
 tomakehurst
+haproxy
+epoll
+websockets
 javanica
+bytebuddy
+solrj
+jgit
+okhttp
 flexy
 dropwizard
 vladmihalcea
