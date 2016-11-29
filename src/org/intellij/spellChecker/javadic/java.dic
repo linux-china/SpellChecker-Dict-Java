@@ -1,4 +1,17 @@
 gradle
+snakeyaml
+alibaba
+fastjson
+aliexpress
+bcpkix
+governator
+autoscaling
+rxnetty
+hdrhistogram
+tddl
+taobao
+eagleeye
+digester
 jcenter
 wiremock
 tomakehurst
