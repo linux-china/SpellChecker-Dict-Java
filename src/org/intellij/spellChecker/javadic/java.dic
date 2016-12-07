@@ -5,8 +5,11 @@ jopt
 projectlombok
 cedarsoftware
 jsoup
+threeten
 jodd
 javatuples
+lukehutch
+jayway
 emoji
 togglz
 mapdb
