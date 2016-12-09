@@ -1,5 +1,8 @@
 verbalregex
 Rigourous
+bintray
+nginx
+deps
 testcontainers
 kahadb
 karaf
