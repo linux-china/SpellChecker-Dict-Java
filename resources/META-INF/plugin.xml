@@ -3,7 +3,7 @@
     <name>Spell Checker Java Dictionary</name>
     <id>Spell Checker Java Dictionary</id>
     <description>Standard Java dictionary based on Maven repository</description>
-    <version>0.2</version>
+    <version>0.2.20161219</version>
     <vendor email="linux_china@hotmail.com">linux_china</vendor>
     <change-notes>
         <![CDATA[
