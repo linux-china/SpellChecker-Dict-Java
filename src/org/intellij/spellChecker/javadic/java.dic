@@ -8,6 +8,9 @@ nginx
 deps
 testcontainers
 kahadb
+keyvalue
+threetenbp
+gitlab
 karaf
 leveldb
 shiro
