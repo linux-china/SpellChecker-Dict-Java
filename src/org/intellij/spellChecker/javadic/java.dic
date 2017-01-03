@@ -1,4 +1,9 @@
 jooq
+datastore
+tsdb
+influxdb
+enduml
+javadev
 decora
 htmlstapler
 lagarto
