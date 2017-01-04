@@ -1,9 +1,17 @@
 jooq
+datastax
+tdatasource
+tgroupdatasource
 datastore
 tsdb
 influxdb
 enduml
 javadev
+Sharding
+jsonpath
+minidev
+skyscreamer
+jsonassert
 decora
 htmlstapler
 lagarto
