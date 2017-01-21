@@ -9,6 +9,7 @@ oplog
 surelogic
 oceanbase
 rometools
+xerial
 jooq
 datastax
 tdatasource
