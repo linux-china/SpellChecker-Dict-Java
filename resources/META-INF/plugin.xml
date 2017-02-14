@@ -3,10 +3,13 @@
     <name>Spell Checker Java Dictionary</name>
     <id>Spell Checker Java Dictionary</id>
     <description>Standard Java dictionary based on Maven repository</description>
-    <version>0.2.20161219</version>
+    <version>0.3.20170214</version>
     <vendor email="linux_china@hotmail.com">linux_china</vendor>
     <change-notes>
         <![CDATA[
+              <ul>0.3
+                   <li>add words from Spring Platform BOM</li>
+              </ul>
               <ul>0.2
                    <li>structure adjusted</li>
                    <li>add some words, such netflix etc</li>
