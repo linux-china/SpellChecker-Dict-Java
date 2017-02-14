@@ -33,6 +33,10 @@ paho
 mqttv
 jasig
 jredis
+jstlel
+iostreams
+httpmime
+spullara
 reactivestreams
 seleniumhq
 spockframework
