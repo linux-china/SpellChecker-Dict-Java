@@ -1,6 +1,10 @@
 prereleases
 sonatype
+xsiframe
 jitpack
+inlining
+devmode
+Xcompiler
 dzone
 petclinic
 stackoverflow
