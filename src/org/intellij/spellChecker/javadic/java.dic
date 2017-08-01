@@ -1,9 +1,13 @@
+gorm
+serverless
 javapoet
 kotlinpoet
 archunit
 archimate
 listsprite
 smtp
+teardown
+redisson
 serverless
 konan
 conan
@@ -18,6 +22,7 @@ asciidoctor
 propdeps
 epub
 sonarqube
+bootcamp
 equals
 xskip
 xlint
