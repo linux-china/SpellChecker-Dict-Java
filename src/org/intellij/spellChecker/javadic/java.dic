@@ -1,3 +1,10 @@
+sbin
+entrypoint
+onbuild
+wget
+curl
+kubectl
+noautoesc
 ditmars
 ultron
 healthchecks
