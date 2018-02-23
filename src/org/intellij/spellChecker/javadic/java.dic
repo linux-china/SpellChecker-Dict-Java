@@ -1,4 +1,6 @@
 sbin
+youtrack
+hubspot
 entrypoint
 onbuild
 wget
