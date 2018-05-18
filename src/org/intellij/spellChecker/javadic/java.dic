@@ -29,6 +29,10 @@ lpad
 ltrim
 makedate
 maketime
+inmemory
+datediff
+ifnull
+subdate
 monthname
 substr
 rpad
