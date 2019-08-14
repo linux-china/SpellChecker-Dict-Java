@@ -1,3 +1,6 @@
+rsocket
+qpid
+netifi
 graal
 autoconfiguration
 kubernetesclient
