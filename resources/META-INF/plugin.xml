@@ -1,12 +1,15 @@
-<!DOCTYPE idea-plugin PUBLIC "Plugin/DTD" "http://plugins.intellij.net/plugin.dtd">
+<?xml version="1.0" encoding="utf-8" ?>
 <idea-plugin>
     <name>Spell Checker Java Dictionary</name>
     <id>Spell Checker Java Dictionary</id>
     <description>Standard Java dictionary based on Maven repository</description>
-    <version>0.3.20170214</version>
+    <version>0.3.20190820</version>
     <vendor email="linux_china@hotmail.com">linux_china</vendor>
     <change-notes>
         <![CDATA[
+              <ul>0.4
+                <li>add reactive words</li>
+              </ul>
               <ul>0.3
                    <li>add words from Spring Platform BOM</li>
               </ul>
