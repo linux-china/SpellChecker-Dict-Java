@@ -7,6 +7,9 @@ cloudevents
 dataschemaurl
 datacontenttype
 specversion
+salesforce
+servicelibs
+reactorgrpc
 rsocket
 rsockets
 nullness
