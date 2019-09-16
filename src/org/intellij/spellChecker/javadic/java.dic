@@ -1,3 +1,5 @@
+jakartaee
+apidocs
 dataref
 tailer
 browserify
@@ -12,6 +14,7 @@ wasmer
 warpy
 wasmtime
 pywasm
+grpcurl
 multitenancy
 blazor
 vdom
